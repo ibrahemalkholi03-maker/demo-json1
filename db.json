@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author_name": "Mike Chen",
+      "author_avatar": "https://i.pravatar.cc/150?img=1",
+      "title": "The Future of Web Development",
+      "body": "Web development is evolving rapidly...",
+      "created_at": "2024-01-01T10:00:00Z",
+      "comments_count": 1
+    },
+    {
+      "id": 2,
+      "author_name": "Emily Davis",
+      "author_avatar": "https://i.pravatar.cc/150?img=1",
+      "title": "Best Practices for API Design",
+      "body": "Designing RESTful APIs requires careful consideration of endpoints, HTTP methods, and...",
+      "created_at": "2024-01-01T10:00:00Z",
+      "comments_count": 1
+    },
+    {
+      "id": 3,
+      "author_name": "Sarah Johnson",
+      "author_avatar": "https://i.pravatar.cc/150?img=1",
+      "title": "TypeScript Tips and Tricks",
+      "body": "TypeScript adds type safety to JavaScript, helping you catch errors early and write more maintainable code...",
+      "created_at": "2024-01-01T10:00:00Z",
+      "comments_count": 0
+    }
+  ]
+}
