@@ -7,7 +7,7 @@
       "title": "The Future of Web Development",
       "body": "Web development is evolving rapidly...",
       "created_at": "2024-01-01T10:00:00Z",
-      "comments_count": 1
+      "comments_count": 1,
        "comments": [
         {
           "id": 1,
@@ -24,7 +24,7 @@
       "title": "Best Practices for API Design",
       "body": "Designing RESTful APIs requires careful consideration of endpoints, HTTP methods, and...",
       "created_at": "2024-01-01T10:00:00Z",
-      "comments_count": 1
+      "comments_count": 1,
       "comments": [
         {
           "id": 1,
@@ -45,4 +45,5 @@
     }
   ]
 }
+
 
